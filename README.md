@@ -41,7 +41,7 @@ Visualizes class relationships within the BMS project.
 - **Inventory Management**: Real-time tracking of bakery items, availability, and prices.
 - **Order Processing**: Accurate order calculations to enhance efficiency.
 - **Employee Management**: Records employee data, supporting structured management.
-- **User Interface (Backend)**: A Java-based backend that supports easy integration with frontend interfaces or RESTful services.
+- **User Interface (Backend)**: A Java-based backend that supports easy integration with frontend interfaces.
 
 ## Installation
 
